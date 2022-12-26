@@ -19,7 +19,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 93.3vh;
     background: #042104;
     animation: animateColor 8s linear infinite;
 }
